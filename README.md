@@ -6,8 +6,6 @@ This directory contains comprehensive test documentation for the APIsec BOLT bro
 
 - **[test-plan.md](docs/test-plan.md)** - Overall testing strategy, scope, and approach
 - **[test-cases.md](docs/test-cases.md)** - Detailed test case specifications with IDs
-- **[test-results.md](docs/test-results.md)** - Test execution results and metrics
-- **[coverage-report.md](docs/coverage-report.md)** - Test coverage analysis
 
 ## Project Structure
 
